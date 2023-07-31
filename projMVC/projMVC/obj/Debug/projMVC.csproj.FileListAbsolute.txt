@@ -1,0 +1,16 @@
+C:\20230724\projMVC\projMVC\bin\Debug\projMVC.exe.config
+C:\20230724\projMVC\projMVC\bin\Debug\projMVC.exe
+C:\20230724\projMVC\projMVC\bin\Debug\projMVC.pdb
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.AssemblyReference.cache
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.SuggestedBindingRedirects.cache
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.csproj.CoreCompileInputs.cache
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.exe
+C:\20230724\projMVC\projMVC\obj\Debug\projMVC.pdb
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\bin\Debug\projMVC.exe.config
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\bin\Debug\projMVC.exe
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\bin\Debug\projMVC.pdb
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\obj\Debug\projMVC.csproj.AssemblyReference.cache
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\obj\Debug\projMVC.csproj.SuggestedBindingRedirects.cache
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\obj\Debug\projMVC.csproj.CoreCompileInputs.cache
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\obj\Debug\projMVC.exe
+C:\ADS-ED2-20230724\ADS-ED2-20230724-main\projMVC\projMVC\obj\Debug\projMVC.pdb
